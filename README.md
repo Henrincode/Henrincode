@@ -1,0 +1,3 @@
+- 👋 Hello, I'm Henrique
+- 👀 I'm interested in learning
+- 🌱 I'm currently learning logic
