@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá! Eu sou Henrique.
+Bem-vindo ao meu GitHub! Atualmente, estou em constante aprendizado de programação e utilizo o repositório [Sempre-Aprendendo](https://github.com/Henrincode/Sempre-Aprendendo) para compartilhar meus estudos e progresso nos cursos que realizo. Nele, você encontrará uma visão clara do meu desenvolvimento técnico e das habilidades que adquiri até agora.
 
-<!--
-**Henrincode/Henrincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embora o repositório possa não conter a linguagem ou biblioteca específica que sua empresa utiliza, sou altamente adaptável e direciono meus estudos para atender às demandas e necessidades do ambiente em que me insiro. Estou sempre disposto a aprender e me aprimorar.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Obrigado pela visita!
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=portugol,nodejs" />
+  </a>
+</p>
