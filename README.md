@@ -7,6 +7,6 @@ Obrigado pela visita!
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=portugol,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
