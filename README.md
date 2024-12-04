@@ -7,6 +7,6 @@ Obrigado pela visita!
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,javascript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svelte,javascript,nodejs,gulp,webpack,jquery,bootstrap,react,vue,electron,angular,mysql,mongodb,express,firebase," />
   </a>
 </p>
