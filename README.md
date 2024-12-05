@@ -34,7 +34,7 @@ Obrigado pela visita!
 </div>
 
 
-<div align="right">
+<div align="center">
   
   <sup>_Icones fornecidos por [skillicons](https://skillicons.dev)_</sup>
   
