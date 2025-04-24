@@ -11,8 +11,11 @@ Obrigado pela visita!
 ---
 
 <div align="center">
+  
+  **O que já aprendi**
+  
   <a href="https://github.com/Henrincode">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,js,nodejs,npm,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,js,nodejs,npm,postman&perline=8" />
   </a>
   
   <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
