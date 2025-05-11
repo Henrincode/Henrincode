@@ -1,6 +1,6 @@
 # Olá! Eu sou Henrique.
 
-🔥 [**Repositório com mais conhecimento!**](https://github.com/Henrincode/Sempre-Aprendendo/tree/main/Estudos/Cursos/web-moderno)
+> 🔥 **Repositório com mais conhecimento:** [**Curso-Cod3r-Web-Moderno**](https://github.com/Henrincode/Curso-Cod3r-Web-Moderno)
 
 Bem-vindo ao meu GitHub! Atualmente, estou em constante aprendizado de programação e utilizo o repositório [Sempre-Aprendendo](https://github.com/Henrincode/Sempre-Aprendendo) para compartilhar meus estudos e progresso nos cursos que realizo. Nele, você encontrará uma visão clara do meu desenvolvimento técnico e das habilidades que adquiri até agora.
 
