@@ -15,7 +15,7 @@ Obrigado pela visita!
   **O que já aprendi**
   
   <a href="https://github.com/Henrincode">
-    <img src="https://skillicons.dev/icons?i=windows,linux,obsidian,vscode,git,github,figma,html,css,js,nodejs,npm,express,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,notion,obsidian,vscode,git,github,figma,html,css,bootstrap,js,nodejs,npm,express,postman,vercel,react,&perline=9" />
   </a>
   
   <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
