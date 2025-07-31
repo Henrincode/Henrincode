@@ -22,11 +22,17 @@ Obrigado pela visita!
 </div>
 
 ## Alguns projetos:
-Mural de serviços SENAC
-https://henrincode.github.io/mural-servicos/
-
-Flappy-Bird
-[https://github.com/Henrincode/flappy-bird](https://henrincode.github.io/flappy-bird/)
-
-Confeitariana
-https://henrincode.github.io/confeitariana/
+> Mural de serviços SENAC
+>> 🌐 [Acesse o site](https://henrincode.github.io/mural-servicos/)
+>> 
+>> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/mural-servicos)
+>
+> Flappy-Bird
+>> 🌐 [Acesse o site](https://henrincode.github.io/flappy-bird/)
+>> 
+>> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/flappy-bird)
+>
+> Confeitariana
+>> 🌐 [Acesse o site](https://henrincode.github.io/confeitariana/)
+>> 
+>> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/confeitariana)
