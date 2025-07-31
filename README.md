@@ -20,3 +20,13 @@ Obrigado pela visita!
   
   <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
 </div>
+
+## Alguns projetos:
+Mural de serviços SENAC
+https://henrincode.github.io/mural-servicos/
+
+Flappy-Bird
+[https://github.com/Henrincode/flappy-bird](https://henrincode.github.io/flappy-bird/)
+
+Confeitariana
+https://henrincode.github.io/confeitariana/
