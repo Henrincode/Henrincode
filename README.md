@@ -21,7 +21,7 @@ Obrigado pela visita!
   <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
 </div>
 
-## Alguns projetos:
+> ## Alguns projetos:
 > Mural de serviços SENAC
 >> 🌐 [Acesse o site](https://henrincode.github.io/mural-servicos/)
 >> 
