@@ -20,19 +20,3 @@ Obrigado pela visita!
   
   <sup>Icones fornecidos por [skillicons](https://skillicons.dev)</sup>
 </div>
-
-> ## Alguns projetos:
-> Mural de serviços SENAC
->> 🌐 [Acesse o site](https://henrincode.github.io/mural-servicos/)
->> 
->> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/mural-servicos)
->
-> Flappy-Bird
->> 🌐 [Acesse o site](https://henrincode.github.io/flappy-bird/)
->> 
->> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/flappy-bird)
->
-> Confeitariana
->> 🌐 [Acesse o site](https://henrincode.github.io/confeitariana/)
->> 
->> 📦 [Ver repositório no GitHub](https://github.com/Henrincode/confeitariana)
